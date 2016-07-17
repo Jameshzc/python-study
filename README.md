@@ -1,2 +1,2 @@
 # python-study
-Some examples made for python learning purpose.
+Some examples about python made for learning purpose.
